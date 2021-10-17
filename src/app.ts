@@ -1,0 +1,1 @@
+console.log('Ahoyy TypeScript!');
